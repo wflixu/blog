@@ -1,2 +1,2 @@
 # blog
-persional blog on web front 
+persional blog on web front-end·· 
