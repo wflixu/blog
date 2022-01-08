@@ -13,16 +13,16 @@ export default function Home({ allPostsData }) {
       </Head>
       <h1 className="title">
         <Link href="/resume">
-          <a>Resume</a>
+          <a>About me</a>
         </Link>
       </h1>
       <section className={utilStyles.headingMd}>
         <p>A web front-end developer </p>
         <p>
-           Use vue angular
+           Using Vue Angular React
         </p>
         <p>
-           Interest Swift  Flutter  Rust!
+           Interesting  Swift  Flutter  Rust!
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

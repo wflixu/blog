@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-
+import 'prismjs/themes/prism.css'
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
